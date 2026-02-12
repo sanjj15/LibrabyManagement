@@ -12,4 +12,6 @@ The project is deployed on Apache Tomcat and demonstrates basic CRUD (Create & R
 
 <img width="732" height="363" alt="image" src="https://github.com/user-attachments/assets/214b8179-21e0-45bb-bf39-260feda71f18" />
 
+<img width="1265" height="206" alt="image" src="https://github.com/user-attachments/assets/14b9cb99-981f-42a9-a671-680fa0f23f74" />
+
 
